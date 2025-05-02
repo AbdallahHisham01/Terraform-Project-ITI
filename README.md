@@ -99,8 +99,3 @@ terraform apply
 | ♻️ Reusability  | Use the same logic across multiple environments or projects                   |
 | 🧹 Maintainability | Isolated module logic simplifies updates and troubleshooting                |
 | 📈 Scalability   | Easily extend infrastructure without rewriting everything                    |
-
-
-=======
-# LAMP_Project
->>>>>>> ff6a5c7070c8d7e4573698d592c3882dbf479809
